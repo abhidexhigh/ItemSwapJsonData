@@ -1,0 +1,38 @@
+{
+  "version": "v1.4.2",
+  "title": "Performance & Balance Patch",
+  "highlights": [
+    "Major performance improvements",
+    "Class balance adjustments",
+    "Bug fixes for multiplayer"
+  ],
+  "categories": [
+    {
+      "name": "Performance",
+      "changes": [
+        "Optimized rendering for 30% better performance",
+        "Reduced loading times by 40%",
+        "Fixed memory leaks in dungeon areas",
+        "Improved streaming of open world assets"
+      ]
+    },
+    {
+      "name": "Balance Changes",
+      "changes": [
+        "Reduced Archer class damage by 8%",
+        "Increased Warrior health regeneration",
+        "Balanced drop rates for rare items",
+        "Adjusted difficulty scaling for group content"
+      ]
+    },
+    {
+      "name": "Bug Fixes",
+      "changes": [
+        "Fixed multiplayer disconnection issues",
+        "Resolved inventory disappearing after changing zones",
+        "Fixed several quest progression blockers",
+        "Addressed UI scaling issues on ultrawide monitors"
+      ]
+    }
+  ]
+}
