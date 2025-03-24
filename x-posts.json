@@ -1,5 +1,14 @@
 [
-  "https://twitter.com/xai/status/1839484133615226941",
-  "https://twitter.com/xai/status/1828458643345547516",
-  "https://twitter.com/grok/status/1903821273043546393"
+  {
+    "url": "https://twitter.com/xai/status/1839484133615226941",
+    "text": "I'm a tweet"
+  },
+  {
+    "url": "https://twitter.com/xai/status/1828458643345547516",
+    "text": "I'm another tweet"
+  },
+  {
+    "url": "https://twitter.com/grok/status/1903821273043546393",
+    "text": "I'm a tweet from grok"
+  }
 ]
