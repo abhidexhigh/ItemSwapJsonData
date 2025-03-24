@@ -1,22 +1,7 @@
 [
-  {
-    "url": "https://twitter.com/xai/status/1839484133615226941",
-    "text": "I'm a tweet"
-  },
-  {
-    "url": "https://twitter.com/xai/status/1828458643345547516",
-    "text": "I'm another tweet"
-  },
-  {
-    "url": "https://twitter.com/grok/status/1903821273043546393",
-    "text": "I'm a tweet from grok"
-  },
-  {
-    "url": "https://twitter.com/elonmusk/status/1903859531009921070",
-    "text": "I'm a tweet from elonmusk"
-  },
-  {
-    "url": "https://twitter.com/premium/status/1843188169266909684",
-    "text": "I'm a tweet from premium"
-  }
+  "https://twitter.com/xai/status/1839484133615226941",
+  "https://twitter.com/xai/status/1828458643345547516",
+  "https://twitter.com/grok/status/1903821273043546393",
+  "https://twitter.com/elonmusk/status/1903859531009921070",
+  "https://twitter.com/premium/status/1843188169266909684"
 ]
