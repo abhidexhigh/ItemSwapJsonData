@@ -1,0 +1,43 @@
+{
+  "version": "v1.7.0",
+  "date": "June 15, 2025",
+  "title": "The Great Seas Update",
+  "latest": true,
+  "highlights": [
+    "Naval exploration and ship combat",
+    "Underwater realms and treasures",
+    "New Aquatic character class"
+  ],
+  "categories": [
+    {
+      "name": "Naval Content",
+      "changes": [
+        "Added ship sailing and exploration across the Great Seas",
+        "Implemented naval combat system with cannons, boarding, and ship upgrades",
+        "Added 5 unique ship types with different capabilities",
+        "Added sea monsters and pirate enemies",
+        "Implemented weather system affecting naval gameplay"
+      ]
+    },
+    {
+      "name": "Underwater Realms",
+      "changes": [
+        "Added 3 new underwater zones: Coral Kingdom, Abyssal Trench, and Sunken City",
+        "Implemented underwater movement and combat mechanics",
+        "Added oxygen system and underwater breathing equipment",
+        "Introduced 12 new underwater quests and storylines",
+        "Added underwater treasures and hidden locations"
+      ]
+    },
+    {
+      "name": "New Class & Items",
+      "changes": [
+        "Added new Aquatic class with water-based abilities",
+        "Introduced 20 new underwater weapons and armor sets",
+        "Added fishing system with 30+ fish species to catch",
+        "Implemented underwater mounts",
+        "Added underwater crafting materials and recipes"
+      ]
+    }
+  ]
+}
