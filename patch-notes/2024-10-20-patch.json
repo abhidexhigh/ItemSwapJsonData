@@ -1,0 +1,41 @@
+{
+  "version": "v1.3.0",
+  "date": "December 10, 2024",
+  "title": "Winter Festival Update",
+  "latest": false,
+  "highlights": [
+    "Limited-time Winter Festival event",
+    "New Frost magic tree",
+    "Holiday-themed items and quests"
+  ],
+  "categories": [
+    {
+      "name": "Winter Festival",
+      "changes": [
+        "Added Winter Festival event (running until January 15)",
+        "Added 5 festival-exclusive quests",
+        "Added Snow Fox companion with unique abilities",
+        "Added festival currency and vendor with exclusive items",
+        "Transformed main cities with winter decorations and events"
+      ]
+    },
+    {
+      "name": "New Magic",
+      "changes": [
+        "Added complete Frost magic skill tree with 15 abilities",
+        "Added 8 craftable Frost-enchanted weapons",
+        "Added Frost resistance stat to appropriate armor",
+        "New frost elemental enemies throughout the world"
+      ]
+    },
+    {
+      "name": "Other Changes",
+      "changes": [
+        "Rebalanced all magic damage scaling",
+        "Added 3 new cooking recipes with winter ingredients",
+        "Updated world map with winter visual effects",
+        "Added snowball fight mini-game in main towns"
+      ]
+    }
+  ]
+}
